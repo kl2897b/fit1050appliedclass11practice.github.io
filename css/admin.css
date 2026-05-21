@@ -1,0 +1,54 @@
+html {
+	font-family: Segoe UI, Trebuchet MS, sans-serif;
+}
+
+body {
+	margin:0;
+}
+
+header {
+	background: #3366cc;
+	color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+}
+
+nav {
+	
+}
+
+nav a {
+	color: #99ccff;
+	margin-right: 20px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+main {
+	padding: 20px;
+}
+
+
+textarea {
+	display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: #cccccc;
+  min-width: 400px;
+}
+
+td, th {
+  padding: 10px;
+  border-color: #cccccc;
+}
+
+th {
+  background: #eeeeee;
+}
